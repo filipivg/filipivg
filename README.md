@@ -22,6 +22,11 @@ Sistema de Gestão Logística e de Frotas desenvolvido como Projeto Integrador.
 * **Diferenciais:** Desenvolvimento Java Swing com padrões POO, persistência híbrida (TXT/Excel) e gestão via metodologias ágeis.
 * **Stack:** Java, Swing, Excel, Git.
 
+### 📅 [Personal Agenda System](https://github.com/Nomscodes/agenda-swing-layered-architecture )
+Aplicação desktop com foco em padrões de projeto e organização de código.
+* **Diferenciais:** Arquitetura estruturada no **Modelo de Visão 4+1**, garantindo separação de responsabilidades.
+* **Stack:** Java Swing, Camada de Persistência.
+
 ### 💻 [Projeto ABAP](https://github.com/filipivg/projeto-abap )
 Repositório dedicado ao desenvolvimento e estudos na linguagem ABAP.
 * **Diferenciais:** Foco em lógica de programação e estruturação de processos dentro do ecossistema SAP.
@@ -29,7 +34,7 @@ Repositório dedicado ao desenvolvimento e estudos na linguagem ABAP.
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/filipi-vieira-giaconete- )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/filipi-vieira-giaconete-246ab3351 )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:filipivieiragiaconete@gmail.com)
 
 📧 **E-mail:** [filipivieiragiaconete@gmail.com](mailto:filipivieiragiaconete@gmail.com)
